@@ -1,5 +1,5 @@
 Final solution I recommend
-
+============================
 Your actual flow is:
 
 DOP Trigger
@@ -959,9 +959,9 @@ Run in shadow mode.
 Step 10
 
 Only after validation, enable automatic resolution.
-
+================================================
 Final architecture
-
+===============================================
 This is what I would ultimately aim for:
 
                          ┌──────────────┐
